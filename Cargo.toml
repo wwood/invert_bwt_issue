@@ -1,0 +1,7 @@
+[package]
+name = "inverse_bwt"
+version = "0.1.0"
+authors = ["Ben Woodcroft <donttrustben@gmail.com>"]
+
+[dependencies]
+bio = {git = "https://github.com/rust-bio/rust-bio"}
